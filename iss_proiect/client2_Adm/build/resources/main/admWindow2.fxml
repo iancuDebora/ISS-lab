@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="197.0" prefWidth="313.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="AdmCtrl2">
+   <children>
+      <Button layoutX="119.0" layoutY="86.0" mnemonicParsing="false" onAction="#handleButton" text="Gestionarea produselor" />
+   </children>
+</AnchorPane>

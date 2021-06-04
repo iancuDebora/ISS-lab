@@ -1,0 +1,17 @@
+
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ŞöşÖùÿÿÿÿ
+t
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(©İ·ıÿÿÿÿ
+o
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô÷Ò®
+o
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á¦ç’
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(‹È‹ç
+P
+java:S1128"5Remove this unused import 'javafx.event.ActionEvent'.(î•¯¼ıÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(µÍÑ„üÿÿÿÿ
+X
+java:S1858"A"getText" returns a string, there's no need to call "toString()".(—óôä
+X
+java:S1858˜"A"getText" returns a string, there's no need to call "toString()".(—óôä
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(ù¡öÜ

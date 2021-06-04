@@ -1,0 +1,14 @@
+
+V	java:S125A"<This block of commented-out lines of code should be removed.(¯¶Üøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥ëŞúÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(åı·Ù
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¾ğ›1
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(’€„
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(âıš¡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ú£©üÿÿÿÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(Œº=
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²À©ê
+K
+java:S1068"0Remove this unused "primaryStage" private field.(ˆ©äÔüÿÿÿÿ
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ïã‚¤8¬Ä÷‹›/
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(‚½ıº

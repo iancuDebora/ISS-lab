@@ -1,0 +1,9 @@
+rootProject.name = 'iss_proiect'
+include 'model'
+include 'persistence'
+include 'services'
+include 'networking'
+include 'server'
+include 'client'
+include 'client2_Adm'
+
